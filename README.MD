@@ -1,2 +1,1 @@
-# Creeps demos from Godot3/4 Docs
-## root repo
+# Not Recycled projects store
