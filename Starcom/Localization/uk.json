@@ -467,7 +467,7 @@
     {
       "symbol": "SHIP_STATION_PANELS->CARGO",
       "original": "Cargo",
-      "translation": "вантажний",
+      "translation": "Вантаж",
       "priority": 0,
       "reviewed": false
     },
@@ -495,7 +495,7 @@
     {
       "symbol": "RESEARCH_UI->RP_PREFIX",
       "original": "Research Points:",
-      "translation": "Пункти дослідження:",
+      "translation": "Очки досліджень:",
       "priority": 0,
       "reviewed": false
     },
@@ -516,14 +516,14 @@
     {
       "symbol": "RESEARCH_UI->RESEARCH_TECH",
       "original": "Research Tech",
-      "translation": "Дослідження техн",
+      "translation": "Дослідження Тех.",
       "priority": 0,
       "reviewed": false
     },
     {
       "symbol": "RESEARCH_UI->INSUFFICIENT_RP",
       "original": "Insufficient RP",
-      "translation": "Недостатній RP",
+      "translation": "Недостатньо очків",
       "priority": 0,
       "reviewed": false
     },
@@ -558,7 +558,7 @@
     {
       "symbol": "SHIPYARD_UI->REACTOR_PRODUCTION",
       "original": "Production",
-      "translation": "виробництво",
+      "translation": "Виробництво",
       "priority": 0,
       "reviewed": false
     },
@@ -572,7 +572,7 @@
     {
       "symbol": "SHIPYARD_UI->ARMOR_DEFLECT",
       "original": "Deflect",
-      "translation": "Відхиляти",
+      "translation": "Відхиляння",
       "priority": 0,
       "reviewed": false
     },
@@ -593,7 +593,7 @@
     {
       "symbol": "SHIPYARD_UI->SHOTS_SEC",
       "original": "shots/sec",
-      "translation": "кадрів/сек",
+      "translation": "постр/сек",
       "priority": 0,
       "reviewed": false
     },
